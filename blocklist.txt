@@ -56,7 +56,6 @@ api-hotjar.com
 api.bugsnag.com
 api2.branch.io
 app-measurement.com
-app-measurement.com
 app.bugsnag.com
 app.getsentry.com
 asia.pool.ntp.org
