@@ -9,6 +9,7 @@ ads-api.tiktok.com
 ads-sg.tiktok.com
 ads.facebook.com
 ads.yahoo.com
+adswizz.podigee-cdn.net
 adtech.yahooinc.com
 adultism.com
 advertising-api-eu.amazon.com
@@ -88,6 +89,7 @@ goatcounter.smhaggle.com
 googlesyndication.com
 highwebmedia.com
 hotjar-analytics.com
+iads.fazcdn.net
 ice.360yield.com
 identity.mparticle.com
 ingameads.gameloft.com
@@ -108,6 +110,7 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
+mlm-tracking.meinestadt.de
 mmcdn.com
 msmetrics.ws.sonos.com
 nativendo.de
@@ -153,6 +156,8 @@ teads.tv
 tr.technical-service.net
 tracing-collector.strava.com
 tracking.komoot.de
+tracking.srovname.cz
+track-sdk-eu.customer.io
 txxx.com
 u.openx.net
 udc.yahoo.com
@@ -164,6 +169,7 @@ widgets.pinterest.com
 www.cdn.ad.xiaomi.com
 www.google.cn
 www.google.cn.local
+www.googleadservices.com
 www.googletagmanager.com
 xhamster.com
 xplosion.de
