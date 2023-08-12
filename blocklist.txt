@@ -84,6 +84,7 @@ e2c55.gcp.gvt2.com
 enid.foundation
 f23f026d-af06-45a2-8d42-9222f4656195.edge.permutive.app
 fota5p.adups.cn
+gateway.fe.apple-dns.net
 global.telemetry.insights.video.a2z.com
 goatcounter.smhaggle.com
 googlesyndication.com
