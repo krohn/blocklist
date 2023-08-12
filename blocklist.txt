@@ -76,6 +76,7 @@ de.ioam.de
 de1-s2s.sensic.net
 deutschebahn.sc.omtrdc.net
 device-api.urbanairship.com
+diag.meethue.com
 doubleclick.net
 e2c31.gcp.gvt2.com
 e2c55.gcp.gvt2.com
@@ -133,6 +134,7 @@ scrolller.com
 securemetrics.apple.com
 sedo.com
 sentry-cdn.com
+setup.icloud.com
 shb.richaudience.com
 shopify-gtm-suite.getelevar.com
 slb-vgwort-de-pool02.vgwort-de.2cnt.net
