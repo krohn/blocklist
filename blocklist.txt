@@ -20,7 +20,6 @@ amazon-adsystem.com
 amazonaax.com
 analytics.oneplus.cn
 analytics.tiktok.com
-analytics.twitter.com
 analyticsengine.s3.amazonaws.com
 api-adservices.apple.com
 api-hotjar.com
@@ -146,6 +145,7 @@ smartadserver.com
 ssl.google-analytics.com
 st.bahn.de
 static.doubleclick.net
+static.hotjar.com
 stroeermediabrands.de
 substack.com
 supportmetrics.apple.com
@@ -171,7 +171,6 @@ www.cdn.ad.xiaomi.com
 www.google.cn
 www.google.cn.local
 www.googleadservices.com
-www.googletagmanager.com
 xhamster.com
 xplosion.de
 yandex.net
