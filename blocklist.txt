@@ -71,6 +71,7 @@ data-cb9b83f47f.t3n.de
 data-e3d4300b49.n-tv.de
 data-ede3421766.promobil.de
 data-f10a591664.promobil.de
+data.meethue.com
 de-config.sensic.net
 de.ioam.de
 de1-s2s.sensic.net
@@ -117,6 +118,7 @@ nativendo.de
 nom.telemetrydeck.com
 notes-analytics-events.apple.com
 nvidia.tt.omtrdc.net
+o427061.ingest.sentry.io
 online.mps-gba.de
 openx.net
 outbrain.com
@@ -156,9 +158,9 @@ tags.tiqcdn.com
 teads.tv
 tr.technical-service.net
 tracing-collector.strava.com
+track-sdk-eu.customer.io
 tracking.komoot.de
 tracking.srovname.cz
-track-sdk-eu.customer.io
 txxx.com
 u.openx.net
 udc.yahoo.com
