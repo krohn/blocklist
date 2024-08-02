@@ -1,0 +1,19 @@
+! icloud
+@|apple.com^
+@|icloud.com^
+@|iforgot.apple.com^
+@|appleid.apple.com^
+@|gs.apple.com^
+@|static.ips.apple.com^
+@|setup.icloud.com^
+@|statici.icloud.com^
+@|icloud-content.com^
+@|icloud.apple.com^
+@|p33-keyvalueservice.icloud.com^
+@|p33-keyvalueservice.icloud-content.com^
+@|fmip.icloud.com^
+@|backup.icloud.com^
+@|p06-caldav.icloud.com^
+@|p06-contacts.icloud.com^
+@|p06-imap.mail.me.com^
+@|p06-smtp.mail.me.com^
